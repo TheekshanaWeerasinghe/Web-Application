@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+.navbar {
+background: white;
+font-size: 20px;
+color: black;
+padding: 5px;
+max-width: 100%;
+}
+
+.nav{
+    display: inline-block;
+    background: #000;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+
+
+
+.cart-page{
+    margin-top: 10px;
+    margin: 40px;
+    
+  }
+  
+  table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td
+  {    
+    padding: 10px 5px;
+    
+  }
+  td input
+  {
+    width: 40px;
+    height: 30px;
+    padding: 5px;
+  }
+  td a 
+  {
+    color:  #000;
+    font-size: 12px;
+  }
+  td img 
+  {
+    height: 80px;
+    width:  80px;
+    margin-right: 10px;
+  }
+  th
+  {
+    text-align: left;
+    padding: 5px;
+    color: #fff;
+    background-color: #000;
+    font-weight: normal;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #717171;
+    max-height: 100px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 80px;
+  }
+  .foot {
+    display: inline-block;
+    margin-right: 100px;
+    font-size: 16px;
+    color: white;
+  }
+
+  .footer li{
+   padding-bottom: 10px;
+  }
+
+  .homed {
+   
+    padding: 50px;
+    margin-bottom: 50px;
+    padding-left: 100px;
+    
+  }
+
+  .homed img{
+    border-radius: 20px;
+    max-width: 280px;
+    max-height: 400px;
+  }
+
+  .homed div{
+    margin-right: 30px;
+    max-width: 300px;
+    display: inline-block;
+    word-wrap: break-word;
+  }
+
+  a { 
+    text-decoration: none;
+    color: white;
+  }
+  
+  .homed p {
+    font-size: 25px;
+    color: white;
+  }
+
+  h1{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+  }
